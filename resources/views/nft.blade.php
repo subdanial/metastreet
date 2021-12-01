@@ -11,13 +11,18 @@
                 <div class="relative flex items-center justify-center w-full h-full pointer-events-none">
                     <img src="{{ URL::asset('/img/soon.jpg') }}"
                         class="w-full lg:absolute top-0 left-0 pointer-events-none" alt="">
-                    <h1 class="absolute text-white text-5xl">Coming Soon</h1>
+                    <h1 class="absolute lg:top-64 text-white text-5xl">Coming Soon</h1>
                 </div>
 
             </div>
         </div>
     </div>
-    {{-- @include('layouts.info') --}}
+    <style>
+        @media (max-width:1080px){
+            #info{display: hidden}
+        }
+    </style>
+     @include('layouts.info') 
 </div>
 @include('layouts.footer')
 

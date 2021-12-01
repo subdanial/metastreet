@@ -45,9 +45,20 @@
         <div class="grid grid-cols-9    lg:-ml-4  ">
             @include('layouts.fixed-top-nav')
 
-
+            
 
             <div class="col-span-9 pt-6">
+
+                <div class="min-h-screen lg:py-0 py-10  lg:px-24 grid grid-cols-2 justify-center items-center ">
+                    <div class="col-span-2">
+                        <img  class="w-2/3 mx-auto" src="{{URL::asset('img/doc/gameplay.svg')}}" alt="">
+                        <div class="title text-center lg:mt-0 mt-10  font-semibold mb-3 lg:text-4xl text-3xl">Hex
+                            Street World </div>
+                        <div class="w-2/3  mx-auto content text-center ">Hex Street is actually a
+                           Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ullam architecto expedita placeat eveniet repudiandae excepturi, ex a voluptate? Provident et aliquam repellat numquam cum, ut quibusdam aut dolorem quidem explicabo?</div>
+                    </div>
+                </div>
+
                 <div class="min-h-screen lg:py-0 py-10  lg:px-24 grid grid-cols-2 justify-center items-center ">
                     <div class="lg:col-span-1 col-span-2 order-2 lg:order-1">
                         <div>
@@ -238,7 +249,7 @@
 
                 </div>
 
-            </div>
+            </>
         </div>
     </div>
 </div>
