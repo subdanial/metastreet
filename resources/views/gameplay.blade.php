@@ -11,13 +11,13 @@
                 <div class="relative flex items-center justify-center w-full  pointer-events-none">
                     <img src="{{ URL::asset('/img/soon-map.jpg') }}"
                         class="w-full lg:absolute top-0  left-0 pointer-events-none" alt="">
-                    <h1 class="relative top-64  bottom-0 text-white text-5xl">Coming Soon</h1>
+                    <h1 class="absolute top-64  bottom-0 text-white text-5xl">Coming Soon</h1>
                 </div>
 
             </div>
         </div>
     </div>
-    @include('layouts.info')
+    {{-- @include('layouts.info') --}}
 </div>
 @include('layouts.footer')
 

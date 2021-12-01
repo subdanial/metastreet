@@ -21,7 +21,7 @@
         </div>
 
         <div class="col-span-12 ">
-            <div class="col-span-9 px-20  mt-10   justify-center items-center  pt-12">
+            <div class="col-span-9 px-6  lg:px-20  mt-10   justify-center items-center  pt-12">
                 <div>
                     <div class="text-4xl  font-bold">Initian Hermetic coin offering</div>
                     <div class="text-base mt-2 text-gray-700 ">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tristique
