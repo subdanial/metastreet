@@ -38,3 +38,19 @@ Route::get('/presell', function () {
 Route::get('/gameplay', function () {
     return view('gameplay');
 })->name('gameplay');
+
+Route::get('/documention/what-is-metasreet', function () {
+    return view('doc.documention');
+})->name('documention');
+
+Route::get('/documention/tokenomics', function () {
+    return view('doc.tokenomics');
+})->name('tokenomics');
+
+Route::get('/documention/roadmap', function () {
+    return view('doc.roadmap');
+})->name('roadmap');
+
+Route::get('/documention/referral', function () {
+    return view('doc.iho');
+})->name('iho');

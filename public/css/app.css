@@ -52,22 +52,22 @@
   /* Legacy iOS */
 }
 
-::-webkit-scrollbar {
+body::-webkit-scrollbar {
   width: 4px;
 }
 
 /* Track */
-::-webkit-scrollbar-track {
+body::-webkit-scrollbar-track {
   background: #111D34;
 }
 
 /* Handle */
-::-webkit-scrollbar-thumb {
+body::-webkit-scrollbar-thumb {
   background: #0F1A30;
 }
 
 /* Handle on hover */
-::-webkit-scrollbar-thumb:hover {
+body::-webkit-scrollbar-thumb:hover {
   background: #000000;
 }
 
@@ -80,7 +80,7 @@ body {
 .--nav-link {
   border-radius: 8px;
   display: block;
-  width: 140px;
+  width: 154px;
   padding-left: 15px;
   height: 41px;
   line-height: 42px;
@@ -260,7 +260,9 @@ body {
 
 .--menu {
   background-color: #0F1A30;
-  position: relative;
+  width: inherit;
+  width: inherit;
+  max-width: inherit;
 }
 
 .cssfixrightcollorpannel {
@@ -440,5 +442,36 @@ body {
   color: initial;
   border-top-left-radius: 0;
   border-bottom-left-radius: 0;
+}
+
+.--roadcard .phase {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 24px;
+}
+
+.--roadcard .title {
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.--roadcard .progress {
+  color: #4388DD;
+  font-weight: 700;
+  line-height: 16px;
+  font-size: 20px;
+}
+
+.--roadcard .date {
+  color: #3A4650;
+  margin-top: 4px;
+  font-size: 14px;
+}
+
+.--roadcard .detail {
+  color: #415162;
+  font-size: 16px;
+  width: 80%;
+  margin: auto;
 }
 /*# sourceMappingURL=app.css.map */
