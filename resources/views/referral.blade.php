@@ -14,13 +14,11 @@
                             MetaST</div>
                         <div class="text-white">
                             <div class="lg:text-left text-center">
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ullamcorper sed mi, nibh im
-                                perdiet.
-                                Ipsum
-                                enim id nulla ut odio pellentesque. Pharetra id dui at turpis malesuada quis amet.
-                                Volutpat
-                                nunc, ut
-                                tempor tristique ac.
+                                After purchasing the MetaST token, it will be possible to get a referral for your wallet
+                                You share the code or referral link if someone buys the token using it
+                                Some tokens will be minted for you
+                                This value will be 43% for the first line, 7% for the second line, and 3.5% for lines 3 and later
+                                You can read more details on <a class="border-b border-white font-semibold" href="{{route('iho')}}"> Documention</a>
                             </div>
 
                             <table class="text-white mt-3 w-full">
@@ -71,51 +69,40 @@
                     <div class="lg:col-span-1 col-span-2  mb-2 ">
                         <div class="--refferal-item">
                             <div class="inline-block w-1/2">Your Referal ID </div>
-                            <div class="inline-block w-1/2">Your Referal ID </div>
+                            <div class="inline-block w-1/2"> XZM2931M </div>
                         </div>
                     </div>
                     <div class="lg:col-span-1 col-span-2  mb-2 ">
                         <div class="--refferal-item">
-                            <div class="inline-block w-1/2">Your Referal ID </div>
-                            <div class="inline-block w-1/2">Your Referal ID </div>
+                            <div class="inline-block w-1/2">You Invited directly   </div>
+                            <div class="inline-block w-1/2">10 people </div>
                         </div>
                     </div>
                     <div class="lg:col-span-1 col-span-2  mb-2 ">
                         <div class="--refferal-item">
-                            <div class="inline-block w-1/2">Your Referal ID </div>
-                            <div class="inline-block w-1/2">Your Referal ID </div>
+                            <div class="inline-block w-1/2">You buyed   </div>
+                            <div class="inline-block w-1/2">1000 MetaST </div>
                         </div>
                     </div>
                     <div class="lg:col-span-1 col-span-2  mb-2 ">
                         <div class="--refferal-item">
-                            <div class="inline-block w-1/2">Your Referal ID </div>
-                            <div class="inline-block w-1/2">Your Referal ID </div>
+                            <div class="inline-block w-1/2">You invited at all  </div>
+                            <div class="inline-block w-1/2"> 10010 people </div>
                         </div>
                     </div>
                     <div class="lg:col-span-1 col-span-2  mb-2 ">
                         <div class="--refferal-item">
-                            <div class="inline-block w-1/2">Your Referal ID </div>
-                            <div class="inline-block w-1/2">Your Referal ID </div>
+                            <div class="inline-block w-1/2">Your Balance is      </div>
+                            <div class="inline-block w-1/2"> 2000 MetaST </div>
                         </div>
                     </div>
                     <div class="lg:col-span-1 col-span-2  mb-2 ">
                         <div class="--refferal-item">
-                            <div class="inline-block w-1/2">Your Referal ID </div>
-                            <div class="inline-block w-1/2">Your Referal ID </div>
-                        </div>
-                    </div>
-                    <div class="lg:col-span-1 col-span-2  mb-2 ">
-                        <div class="--refferal-item">
-                            <div class="inline-block w-1/2">Your Referal ID </div>
+                            <div class="inline-block w-1/2">You Earned   </div>
                             <div class="inline-block w-1/2">Your Referal ID </div>
                         </div>
                     </div>
-                    <div class="lg:col-span-1 col-span-2  mb-2 ">
-                        <div class="--refferal-item">
-                            <div class="inline-block w-1/2">Your Referal ID </div>
-                            <div class="inline-block w-1/2">Your Referal ID </div>
-                        </div>
-                    </div>
+
                 </div>
             </div>
         </div>

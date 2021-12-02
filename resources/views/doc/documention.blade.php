@@ -49,31 +49,28 @@
 
             <div class="col-span-9 pt-6">
 
-                <div class="min-h-screen lg:py-0 py-10  lg:px-24 grid grid-cols-2 justify-center items-center ">
+                {{-- <div class="min-h-screen lg:py-0 py-10  lg:px-24 grid grid-cols-2 justify-center items-center ">
                     <div class="col-span-2">
                         <img  class="w-2/3 mx-auto" src="{{URL::asset('img/doc/gameplay.svg')}}" alt="">
-                        <div class="title text-center lg:mt-0 mt-10  font-semibold mb-3 lg:text-4xl text-3xl">Hex
-                            Street World </div>
-                        <div class="w-2/3  mx-auto content text-center ">Hex Street is actually a
-                           Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ullam architecto expedita placeat eveniet repudiandae excepturi, ex a voluptate? Provident et aliquam repellat numquam cum, ut quibusdam aut dolorem quidem explicabo?</div>
+                        <div class="title text-center lg:mt-0 mt-10  font-semibold mb-3 lg:text-4xl text-3xl">MetaStreet World </div>
+                        <div class="w-2/3  mx-auto content text-center "></div>
                     </div>
-                </div>
+                </div> --}}
 
                 <div class="min-h-screen lg:py-0 py-10  lg:px-24 grid grid-cols-2 justify-center items-center ">
                     <div class="lg:col-span-1 col-span-2 order-2 lg:order-1">
                         <div>
-                            <div class="title text-center lg:mt-0 mt-10 lg:text-left font-semibold mb-3 lg:text-4xl text-3xl">Hex
-                                Street World </div>
-                            <div class="content text-center lg:text-left lg:pr-24 lg:pl-0 px-10">Hex Street is actually a
+                            <div class="title text-center lg:mt-0 mt-10 lg:text-left font-semibold mb-3 lg:text-4xl text-3xl">MetaStreet World </div>
+                            <div class="content text-center lg:text-left lg:pr-24 lg:pl-0 px-10">MetaStreet is actually a
                                 classic open word monopoly on a
                                 blockchain platform where you can move in 6 different directions.
-                                The main gameplay of Hex Street is very understandable, simple and clear. The game
+                                The main gameplay of MetaStreet is very understandable, simple and clear. The game
                                 consists of NFT land, the player rolls the dice and then moves on the houses after
                                 choosing the path. If he falls on land that he does not already have, he can buy it from
                                 the bank, if the land already The player has to pay the rent, since the landlord is the
                                 bank at the beginning of the game, the bank makes leverage such as airdrop, lottery and
                                 game loans less expensive and attractive for new players. The goal of the bank is to
-                                increase the turnover of Hex Street.</div>
+                                increase the turnover of MetaStreet.</div>
                         </div>
                     </div>
                     <div class="lg:col-span-1 lg:order-2 col-span-2 flex justify-center items-center">
@@ -88,7 +85,7 @@
                         <div class="title font-semibold mb-3 lg:text-4xl text-3xl lg:mt-0 mt-8 ">Dice and movement
                             system</div>
                         <div class="content lg:px-24">Unlike the classic monopoly where you only have one direction of
-                            movement, Hex Street creates from 1 to 6 directions each time you roll the dice. This odds
+                            movement, MetaStreet creates from 1 to 6 directions each time you roll the dice. This odds
                             are not evenly divided, the odds go up from 6 to 1, which means that the chances of the
                             player being allowed to move in one direction after rolling the dice are greater than 6In
                             addition to the direction of movement, the dice determine the number of cells that a person
@@ -134,7 +131,7 @@
                                     algorithm, so projects dealing with lucky numbers must use another solution.
                                     Most projects solve this problem by using centralized trades, in which case there is
                                     a
-                                    possibility of fraud.At Hex Street, we do this with VFR and CHAINLINK technology.
+                                    possibility of fraud.At MetaStreet, we do this with VFR and CHAINLINK technology.
                                     By creating links between link and bsc blockchains, the structure of our Ness random
                                     algorithm will be transparent, open source and decentralized, and this is a valuable
                                     position in the world of decentralized cryptocurrencies.</div>
@@ -149,7 +146,7 @@
                     style="background:#EAF1FF">
                     <div class="lg:col-span-1 lg:text-left text-center col-span-2 lg:order-1 order-2">
                         <div class="title font-semibold mb-3 lg:text-4xl text-3xl my-8">Land Cards</div>
-                        <div class="content lg:pr-36 lg:text-left text-center">In Hex Street, each land is an NFT.
+                        <div class="content lg:pr-36 lg:text-left text-center">In MetaStreet, each land is an NFT.
                             The main characteristics of the land, the status of the property (whether it owns or not) -
                             the purchase price of the land, the cost of renting the land, the identity of the landowner
                             (if the owner is not the owner of the land), the land level are the attributes of the land.
@@ -198,14 +195,14 @@
                     </div>
                     <div class="lg:col-span-1 lg:text-left text-center col-span-2">
                         <div class="title font-semibold mb-3 lg:text-4xl text-3xl my-8">Banking System</div>
-                        <div class="content lg:pr-36 ">Bank is the god of Hex Street game, control of all decisions in
+                        <div class="content lg:pr-36 ">Bank is the god of MetaStreet game, control of all decisions in
                             Hex
                             Street is the responsibility of the bank, banking in this game is run democratically and
-                            with the vote of the members of the game. The goal of the bank is to make Hex Street
-                            prosperous. The bank wants to increase the value of hex tokens, make hex investors more
-                            capitalist, and provide the way to attract more capital and increase hex marketing by
+                            with the vote of the members of the game. The goal of the bank is to make MetaStreet
+                            prosperous. The bank wants to increase the value of Metatokens, make Metainvestors more
+                            capitalist, and provide the way to attract more capital and increase Metamarketing by
                             creating economic attractiveness.
-                            So the more powerful the bank, the more capitalist the hex Street beneficiaries become.
+                            So the more powerful the bank, the more capitalist the MetaStreet beneficiaries become.
                             <ul>
                                 <li>
                                     - Land ownership management

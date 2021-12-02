@@ -12,23 +12,22 @@
                     <img src="{{ URL::asset('/img/hero.png') }}" class=" top-0  w-full">
                     <div class="grid grid-cols-8 px-10 absolute top-0">
 
-                        <div class="text-white col-start-1  col-span-3 !!!!!!!!! " style="margin-top: 3vw;">
+                        <div class="text-white col-start-1  col-span-3 !!!!!!!!! " style="margin-top: 2.5vw;">
                             <div class="font-bold |text-4xl" style="font-size:2.3vw;line-height: 1.2;">
-                                Fall Guys
-                                Game Play Online
-                                For Free !
+                            Play Monopoly <br>This time <br> on  Metaverse
                             </div>
                             <div style="font-size:1vw">
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam pulvinar morbi
-                                ultrices nam urna sed.
+                             
+                                Catch lands, Upgrade and rent them. 
+Meta Street is an openworld game inspired by monopoly classic, with the difference that it happens in the world of Metavars and always continues.
                             </div>
 
                             <div class="flex mt-4">
                                 <div class="--btn-howtobuy font-black text-center secondary">How to buy</div>
                                 <div class="--btn-howtobuy primary ml-4 relative text-left">
-                                    <div class="mx-auto font-extrabold text-center">
+                                    <a href="{{route('PreSale')}}" class="mx-auto block font-bold text-center">
                                         Buy MetaST
-                                    </div>
+                                    </a>
 
                                 </div>
                             </div>
@@ -41,11 +40,10 @@
                         <div class="absolute flex h-full items-center px-4 top-0 left-0 text-white">
                             <div class="innerflex">
                                 <div class="title  font-bold w-2/3" style="font-size: 5.5vw;">Fall Guys
-                                    Game Play Online
-                                    For Free !</div>
-                                <div class="subtitle text-sm w-2/3">Lorem ipsum dolor sit amet, consectetur
-                                    adipiscing elit.
-                                    Aliquam pulvinar morbi ultrices nam urna sed. </div>
+                                    Play Monopoly <br>This time <br> on  Metaverse</div>
+                                <div class="subtitle text-sm w-2/3">         Catch lands, Upgrade and rent them. 
+                                    Meta Street is an openworld game inspired by monopoly classic, with the difference that it happens in the world of Metavars and always continues.
+                                                                </div>
                             </div>
                         </div>
 
@@ -58,14 +56,14 @@
                         </div>
                     </div>
                 </div>
-                <div class="--presell text-white mt-5 pt-4 px-10">
+                <div class="--presell  text-white   mt-5 pt-4 px-10">
                     <div class="mobile text-center text-white block lg:hidden">
                         <div class="title text-xl font-bold">Pressell MetaST Token</div>
                         <div class="title text-sm ">Started at 2021 May 04</div>
                     </div>
 
                     <div class="grid grid-cols-7 w-full relative">
-                        <div class="absolute right-0 top-0 lg:block hidden">Started at 2021 May 04</div>
+                        <div class="absolute right-0 top-0 lg:block hidden">Softcap fundraising Started at 2021 May 04 </div>
                         <div class="lg:col-span-2 col-span-3  ">
                             <div class="lg:block hidden title text-center text-lg font-bold ">
                                 Pressell MetaST Token
@@ -78,7 +76,7 @@
                                             <div class="outer">
                                                 <div class="inner">
                                                     <div class="content text-white text-center">
-                                                        <div class="title text-base"> Presell</div>
+                                                        <div class="title text-base"> PreSale</div>
                                                         <div class="percent text-3xl font-bold">65%</div>
                                                     </div>
                                                 </div>
@@ -111,28 +109,28 @@
                             <div class="col-span-1 ">
                                 <div class="--lable mt-2 lg:mt-4">
                                     <div class="inside">
-                                        <div class="title">We Collect</div>
-                                        <div class="content">200 BNB</div>
+                                        <div class="title">We Collected</div>
+                                        <div class="content">-- BNB</div>
                                     </div>
                                 </div>
                                 <div class="--lable mt-2 lg:mt-4">
                                     <div class="inside">
-                                        <div class="title">We Collect</div>
-                                        <div class="content">200 BNB</div>
+                                        <div class="title">We Sell </div>
+                                        <div class="content">-- MetaST</div>
                                     </div>
                                 </div>
                             </div>
                             <div class=" col-span-1">
                                 <div class="--lable mt-2 lg:mt-4">
                                     <div class="inside">
-                                        <div class="title">We Collect</div>
-                                        <div class="content">200 BNB</div>
+                                        <div class="title">We need more</div>
+                                        <div class="content">-- BNB</div>
                                     </div>
                                 </div>
                                 <div class="--lable mt-2 lg:mt-4">
                                     <div class="inside">
-                                        <div class="title">We Collect</div>
-                                        <div class="content">200 BNB</div>
+                                        <div class="title">We will sell more</div>
+                                        <div class="content">-- MetaST</div>
                                     </div>
                                 </div>
                             </div>

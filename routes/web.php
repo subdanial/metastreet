@@ -31,9 +31,9 @@ Route::get('/referral', function () {
     return view('referral');
 })->name('referral');
 
-Route::get('/presell', function () {
-    return view('presell');
-})->name('presell');
+Route::get('/presale', function () {
+    return view('presale');
+})->name('PreSale');
 
 Route::get('/gameplay', function () {
     return view('gameplay');

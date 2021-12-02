@@ -6,7 +6,7 @@
             MetaStreet ?</a>
         <a href="{{ route('tokenomics') }}"
             class="mr-16 pb-2  {{ request()->routeIs('tokenomics') ? 'font-bold border-b-2  border-gray-900 ' : '' }}">
-            tokenomics Policy </a>
+            Tokenomics Policy </a>
         <a href="{{ route('roadmap') }}"
             class="mr-16 pb-2  {{ request()->routeIs('roadmap') ? 'font-bold border-b-2  border-gray-900' : '' }}">
             Roadmap</a>
